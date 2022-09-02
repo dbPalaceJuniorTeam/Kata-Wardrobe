@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6724b584-528c-41c2-a0d8-79500ef6f67d" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Wardrobe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gft/Wardrobe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WardrobeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gft/WardrobeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gft/Wardrobe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gft/Wardrobe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gft/WardrobeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gft/WardrobeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +35,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/traingft/Desktop/Wardrobe/pom.xml&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/traingft/Desktop/Wardrobe/pom.xml",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.gft" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.WardrobeTest.fillTheWallWithOnly50CmWardrobe">
+  <component name="RunManager" selected="JUnit.WardrobeTest.fillTheWallWith50CmAnd75CmWardrobe">
+    <configuration name="WardrobeTest.fillTheWallWith50CmAnd75CmWardrobe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Wardrobe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gft" />
+      <option name="MAIN_CLASS_NAME" value="com.gft.WardrobeTest" />
+      <option name="METHOD_NAME" value="fillTheWallWith50CmAnd75CmWardrobe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WardrobeTest.fillTheWallWithOnly50CmWardrobe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Wardrobe" />
       <extension name="coverage">
@@ -78,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WardrobeTest.fillTheWallWith50CmAnd75CmWardrobe" />
         <item itemvalue="JUnit.WardrobeTest.fillTheWallWithOnly50CmWardrobe" />
         <item itemvalue="JUnit.WardrobeTest.makeMostOfSpace" />
       </list>
@@ -93,7 +111,7 @@
       <updated>1662036167777</updated>
       <workItem from="1662036170464" duration="9658000" />
       <workItem from="1662106217323" duration="1168000" />
-      <workItem from="1662110629661" duration="1092000" />
+      <workItem from="1662110629661" duration="9618000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit">
       <created>1662036200355</created>

@@ -18,6 +18,8 @@ public class WardrobeTest {
 
         Map<Integer,Integer> map1 = new HashMap<>();
 
+        int maxSize = 250;
+
         map1.put(50,5);
 
         list.add(map1);
@@ -25,6 +27,26 @@ public class WardrobeTest {
         Wardrobe wardrobe = new Wardrobe(new int[] {50});
 
 
+
+        assertEquals(list,);
+
+    }
+
+    @Test
+    void fillTheWallWith50CmAnd75CmWardrobe(){
+        ArrayList<Map<Integer,Integer>> list = new ArrayList<>();
+
+        Map<Integer,Integer> map1 = new HashMap<>();
+        Map<Integer,Integer> map2 = new HashMap<>();
+
+        map1.put(50,2);
+        map1.put(75,2);
+        map2.put(50,5);
+
+        list.add(map1);
+        list.add(map2);
+
+        Wardrobe wardrobe = new Wardrobe(new int[] {50,75});
 
         assertEquals(list,wardrobe.combinations(250));
 
