@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6724b584-528c-41c2-a0d8-79500ef6f67d" name="Changes" comment="Primer commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wardrobe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WardrobeTest.java" afterDir="false" />
+    <list default="true" id="6724b584-528c-41c2-a0d8-79500ef6f67d" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Wardrobe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gft/Wardrobe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WardrobeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gft/WardrobeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +35,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/traingft/Desktop/Kata-Bowling/Game/pom.xml",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/traingft/Desktop/Wardrobe/pom.xml&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.gft" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WardrobeTest.fillTheWallWithOnly50CmWardrobe">
+    <configuration name="WardrobeTest.fillTheWallWithOnly50CmWardrobe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Wardrobe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gft" />
+      <option name="MAIN_CLASS_NAME" value="com.gft.WardrobeTest" />
+      <option name="METHOD_NAME" value="fillTheWallWithOnly50CmWardrobe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WardrobeTest.makeMostOfSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Wardrobe" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WardrobeTest" />
+      <option name="PACKAGE_NAME" value="com.gft" />
+      <option name="MAIN_CLASS_NAME" value="com.gft.WardrobeTest" />
       <option name="METHOD_NAME" value="makeMostOfSpace" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -58,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WardrobeTest.fillTheWallWithOnly50CmWardrobe" />
         <item itemvalue="JUnit.WardrobeTest.makeMostOfSpace" />
       </list>
     </recent_temporary>
@@ -70,7 +91,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662036167777</updated>
-      <workItem from="1662036170464" duration="7680000" />
+      <workItem from="1662036170464" duration="9658000" />
+      <workItem from="1662106217323" duration="1168000" />
+      <workItem from="1662110629661" duration="1092000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit">
       <created>1662036200355</created>
@@ -86,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662036386480</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1662044257924</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662044257924</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
